@@ -4,7 +4,6 @@ module.exports = {
   transpileDependencies: [
     'vuetify'
   ],
-
   publicPath: isProd ? '/ga-account' : '/',
   outputDir: 'docs',
   filenameHashing: false,
