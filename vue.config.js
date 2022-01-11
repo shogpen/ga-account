@@ -5,7 +5,7 @@ module.exports = {
     'vuetify'
   ],
 
-  publicPath: isProd ? '/account-book' : '/',
+  publicPath: isProd ? '/ga-account' : '/',
   outputDir: 'docs',
   filenameHashing: false,
   productionSourceMap: false
